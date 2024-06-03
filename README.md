@@ -1,8 +1,8 @@
 # Responsi Senior Project - Studi Kasus 1
 
-Nama : [NAMA]  
-NIU : [NIU]  
-Sesi : [SESI]  
+Nama : Ahmad Zaki Akmal 
+NIU : 480179 
+Sesi : 1  
 Secret String : [SECRET_STRING]
 
 ## Checklist Responsi
