@@ -20,3 +20,10 @@ Berikut adalah poin-poin yang telah berhasil dilakukan oleh praktikan:
 - [ ] Melakukan _commit_ dan _push_ perubahan pada _repository_ hasil _fork_
 
 <!-- - [x] Contoh pemberian tanda checklist. Hapus sebelum push. -->
+
+## Screenshots
+
+![image](https://github.com/ahmadzakiakmal/responsi-case-1/assets/87590846/6f65cf2a-1645-459b-91c4-16558f542c81)
+
+![image](https://github.com/ahmadzakiakmal/responsi-case-1/assets/87590846/2f826a83-6448-4e14-a033-32b35a79b373)
+
