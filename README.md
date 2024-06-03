@@ -28,3 +28,6 @@ Berikut adalah poin-poin yang telah berhasil dilakukan oleh praktikan:
 ![image](https://github.com/ahmadzakiakmal/responsi-case-1/assets/87590846/2f826a83-6448-4e14-a033-32b35a79b373)
 
 ![image](https://github.com/ahmadzakiakmal/responsi-case-1/assets/87590846/c233a960-17d4-468b-a3df-da8626dcf3cb)
+
+![image](https://github.com/ahmadzakiakmal/responsi-case-1/assets/87590846/b3760e22-14ab-47c3-b2e0-0b6c7a019491)
+
